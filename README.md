@@ -120,3 +120,6 @@ cada 15 segundos y al volver a la pestaña.
 
 **Datos iniciales.** El archivo trae 3 lugares y 4 reservas de ejemplo. Se
 eliminan desde Configurar (quitar lugares y «Borrar todas las reservas»).
+
+
+<!-- Prueba de despliegue automático vía GitHub -->
